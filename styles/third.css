@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: lightblue;
+    background: lightcyan;
+    text-align: center;
+    padding: 20px;
+    border: 10px solid;
+    border-color: lightblue;
+}
+
+body{
+    background-color: rgb(131, 198, 176);
+}
+
+.container{
+    border-radius: 50px;
+    background-image: url(../images/1000x1000.jpg);
+    width: 1000px;
+    height: 800px;
+    text-align: center;
+    border: 10px solid blanchedalmond;
+    margin: 20px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item{
+    background-image: url(../images/goalie.jpg);
+    color: aqua;
+    width: 250px;
+    height: 150px;
+    border-radius: 50px;
+    font-size: 50px;
+    border: 10px solid ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    color: lightblue;
+    background: lightcyan;
+    text-align: center;
+    padding: 20px;
+    border: 10px solid;
+    border-color: lightblue;
+}
+
+.box{
+    display: flex;
+    justify-content:space-around ;
+}
+
+.container2{
+    background-image: url(../images/men3.webp);
+    width: 1000px;
+    height: 800px;
+    border: 10px solid blanchedalmond;
+    border-radius: 50px;
+    text-align: center;
+    margin: 20px auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.item2{
+    background-image: url(../images/hockey.webp);
+    border: 10px solid;
+    color: aqua;
+    font-size: 50px;
+    width: 250px;
+    height: 150px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    color: lightblue;
+    background: lightcyan;
+    text-align: center;
+    padding: 20px;
+    border: 10px solid;
+    border-color: lightblue;
+}

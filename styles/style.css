@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(131, 198, 176);
+}
+
+h1{
+    color: lightblue;
+    background: lightcyan;
+    text-align: center;
+    padding: 20px;
+    border: 10px solid;
+    border-color: lightblue;
+}
+
+.io{
+    color: blanchedalmond;
+    background: burlywood;
+    text-align: center;
+    padding: 10px;
+    margin: 20px auto;
+    border: 10px solid;
+    border-color: blanchedalmond;
+    width: 800px;
+    height: 300px;  
+}
+    
+.game{
+    text-align: center;
+}
+
+
+h2{
+    color: lightblue;
+    background: lightcyan;
+    text-align: center;
+    padding: 20px;
+    border: 10px solid;
+    border-color: lightblue;
+    margin: 20px auto;
+}
+
+.ghg{
+    border: 10px solid;
+    border-color: lightgrey;
+    display: flex;
+    margin: 20px auto; 
+}
+
+.hgh{
+    border: 10px solid;
+    border-color: lightgrey;
+    display: flex;
+    margin: 20px auto;
+}
+
+.ka{
+    color: blanchedalmond;
+    background: burlywood;
+    text-align: center;
+    padding: 10px;
+    margin: 20px auto;
+    border: 10px solid;
+    border-color: blanchedalmond;
+    width: 800px;
+    height: 300px;
+}
+
+.title{
+    color: lightblue;
+    background: lightcyan;
+    text-align: center;
+    padding: 20px;
+    border: 10px solid;
+    border-color: lightblue;
+    margin: 20px auto;
+}
+
+.ki{
+    border: 10px solid;
+    border-color: lightgrey;
+    margin: 20px auto;
+}
+
+.lol{
+    color: blanchedalmond;
+    background: burlywood;
+    text-align: center;
+    padding: 10px;
+    margin: 20px auto;
+    border: 10px solid;
+    border-color: blanchedalmond;
+    width: 800px;
+    height: 30px;  
+}
+
+.next{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
